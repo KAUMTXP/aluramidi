@@ -35,3 +35,10 @@ function tocaSomToim(){
 }
 
 document.querySelector('.tecla_toim').onclick=tocaSomToim;
+
+function tocaSomPsh(){
+    document.querySelector('#som_tecla_Psh').play();
+
+}
+
+document.querySelector('.tecla_psh');
