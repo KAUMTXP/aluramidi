@@ -34,4 +34,4 @@ function tocaSomToim(){
 
 }
 
-document.querySelector('.tecla_toim1').onclick=tocaSomToim;
+document.querySelector('.tecla_toim').onclick=tocaSomToim;
