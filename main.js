@@ -45,7 +45,7 @@ document.querySelector('.tecla_psh').onclick= tocaSomPsh;
 
 
 function tocaSomPsh(){
-    document.querySelector('#som_tecla_Psh').play();
+    document.querySelector('#som_tecla_psh').play();
 
 }
 
