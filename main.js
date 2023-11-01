@@ -50,3 +50,11 @@ function tocaSomPsh(){
 }
 
 document.querySelector('.tecla_psh');
+
+function tocaSomTic(){
+    document.querySelector('#som_tecla_tic').play();
+
+}
+
+document.querySelector('.tecla_tic');
+
